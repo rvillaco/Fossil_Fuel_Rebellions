@@ -1,3 +1,5 @@
+README – Protest Data Imputation and VAR Model Estimation
+
 This project documents the imputation of missing values in the time series of protests in Ecuador and the subsequent estimation of a VAR model to analyze the effects of fuel prices on protest dynamics.
 
 Project Structure
